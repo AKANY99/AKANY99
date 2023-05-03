@@ -1,10 +1,15 @@
 <div align='center'>
-  
+	
+  ### **🙌&nbsp;경력쌓고 있는 개발자 이지철입니다!!&nbsp;🙌**
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A3CB1F)](https://hits.seeyoufarm.com)
+	
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKANY99&show_icons=true&theme=merko)
-  
-  <hr>
-  <div id=''>
-    <p>&nbsp;SKILLS</p>
+	
+	
+  ---
+  ##### SKILLS
+  <div>
     <img src="https://img.shields.io/badge/JAVA-3766AB?style=flat-square"/>&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
