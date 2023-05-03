@@ -3,7 +3,7 @@
 </div>
 <hr>
 <div id=''>
-  &nbsp;<p color='black' font-size='10'>SKILLS</p>
+  &nbsp;<p>SKILLS</p>
   <img src="https://img.shields.io/badge/JAVA-3766AB?style=flat-square"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
