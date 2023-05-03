@@ -1,6 +1,4 @@
-<div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKANY99&show_icons=true&theme=radical)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKANY99&show_icons=true&theme=radical)
 <hr>
 <div id=''>
   <p>&nbsp;SKILLS</p>
