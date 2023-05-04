@@ -3,12 +3,10 @@
 
 <!-- <a href='https://hits.seeyoufarm.com'><img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAKANY99%2Fhit-counter&count_bg=%23A3CB1F'></a> -->
 
-<img align='right' width='35%' height='30%' src='https://github-readme-stats.vercel.app/api?username=AKANY99&show_icons=true&theme=merko'>
+<img align='right' width='50%' height='50%' src='https://github-readme-stats.vercel.app/api?username=AKANY99&show_icons=true&theme=merko'>
 
 
 ## **🙌 Welcome My Profile 🙌**
-
-<br>
   
 ##### ✍STACKS
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp;
@@ -25,9 +23,7 @@
 <div align=''>
 
   
-<a href='https://github.com/AKANY99/github-readme-stats'><img align='right' width='35%' height='30%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AKANY99&layout=compact'>
-
-<br>
+<a href='https://github.com/AKANY99/github-readme-stats'><img align='right' width='50%' height='50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AKANY99&layout=compact'>
   
 ##### 🧰TOOLS
 <img src="https://img.shields.io/badge/Eclipse-0A1499?style=flat-square&logo=Eclipse&logoColor=white"/> &nbsp;
